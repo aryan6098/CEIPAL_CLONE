@@ -1,0 +1,140 @@
+/* Top Div */
+.align {
+  color: #ddd;
+  font-size: 20px;
+}
+#dropdown-basic {
+  color: #fff;
+}
+.dropdown-menu.show {
+  /* border: ridge; */
+  margin-right: 20px;
+  width: 20%;
+  display: block;
+
+  padding: 1px 0px 1px 0px;
+  font-weight: bold;
+  /* border:2px solid hsla(216, 87%, 12%, 0.7); */
+}
+.dropdown-item {
+  display: block;
+  width: 90%;
+  padding: 0.5rem 0.5rem;
+  clear: both;
+  font-size: 10px;
+  font-weight: 500;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border-top: 1px solid #c3c7ca;
+}
+
+#logout {
+  background-color: hsla(216, 87%, 12%, 0.7);
+  color: white;
+}
+#newRequest {
+  margin-left: 85%;
+  padding-top: 0px;
+  color: white;
+  background-color: #5cb85c;
+  border: none;
+  border-radius: 0.2rem;
+  min-height: 2rem;
+}
+
+/* Second Div */
+.nav-tabs-simple {
+  background-color: #f8f9fb;
+}
+.nav-tabs {
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  line-height: 50px;
+}
+.nav {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+a {
+  color: red;
+  font-weight: bold;
+}
+
+/* Third Div */
+
+.form-row {
+  margin-top: 20px;
+}
+.sortby {
+  width: 50%;
+  height: 35px;
+  margin-left: 30px;
+  margin-top: -7px;
+  color: #495057;
+}
+.requestDate {
+  width: 100%;
+  height: 35px;
+  margin-left: 30px;
+  color: #495057;
+}
+.btn.btn-primary {
+  color: #fff;
+  background-color: #286090;
+  border-color: #286090;
+  border-radius: 3px;
+  padding: 7px 10px;
+  margin-bottom: 0;
+  font-size: 13px;
+  font-weight: 400;
+}
+.btn-default {
+  background-color: #e6e6e6;
+  border: 2px solid #ddd;
+  padding: 7px 10px;
+  margin-bottom: 0;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+/* Fourth div */
+.sort {
+  margin-left: 60px;
+}
+.sort-button {
+  margin: 14px 5px 0px 5px;
+  /* padding: 8px 8px; */
+  line-height: 3px;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid #ddd;
+}
+#records-per-page {
+  margin-left: 400px;
+}
+
+/* Fifth Div */
+.top-row {
+  color: #043386;
+}
+.table {
+  width: 100%;
+  max-width: 100%;
+}
+.text {
+  padding: 0px;
+  color: #666;
+}
+.pagination,
+.pagination-info {
+  display: inline-block;
+  margin: 1rem 0;
+}

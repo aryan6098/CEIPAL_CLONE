@@ -1,0 +1,46 @@
+.submitsheet1 {
+  text-align: right;
+  border-right: 2px solid #b39c9c;
+  padding: 0 2.5rem;
+}
+
+.subsheet1btn {
+  margin: 1rem 1rem;
+}
+
+.submittable {
+  margin: 0 1rem;
+}
+
+.submittabledetails {
+  display: flex;
+  font-size: 1.4rem;
+  list-style: none;
+}
+
+.cleartimesheetbtn {
+  background-color: #7671f1;
+  color: #fff;
+  font-size: 1.6rem;
+  border: none;
+  font-size: 1.5rem;
+}
+
+.subtable1 {
+  margin-right: 1rem;
+  border-right: 2px solid #d4d1d1;
+}
+
+.subtabvale {
+  font-size: 1.4rem;
+}
+.submittimesheettvalue {
+  font-size: 20px;
+  margin-top: -1rem;
+}
+
+.tableinput {
+  text-align: center;
+  border: none;
+  font-size: 1.6rem;
+}

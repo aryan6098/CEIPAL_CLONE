@@ -1,0 +1,82 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "Aryan",
+      "email": "araj60988@gmail.com",
+      "password": "Raj@6098",
+      "cpassword": "Raj@6098"
+    },
+    {
+      "id": 2,
+      "name": "Aryan",
+      "email": "araj32803@gmail.com",
+      "password": "Aryan@6098",
+      "cpassword": "Aryan@6098"
+    },
+    {
+      "name": "Aryan",
+      "email": "araj60988@gmail.com",
+      "phone": "8264984525",
+      "password": "Shuddu@123",
+      "cpassword": "Shuddu@123",
+      "id": 3
+    },
+    {
+      "name": "Zoya",
+      "email": "zoya@gnail.com",
+      "phone": "8264984525",
+      "password": "Zoya@123",
+      "cpassword": "Zoya@123",
+      "id": 4
+    },
+    {
+      "name": "Payal",
+      "email": "payal@gmail.com",
+      "phone": "8264984525",
+      "password": "Payal@123",
+      "cpassword": "Payal@123",
+      "id": 5
+    },
+    {
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "phone": "8264984525",
+      "password": "Peter@123",
+      "cpassword": "Peter@123",
+      "id": 6
+    },
+    {
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": "8578451245",
+      "password": "Ravi@123",
+      "cpassword": "Ravi@123",
+      "id": 7
+    },
+    {
+      "name": "Aryan",
+      "email": "araj60988@gmail.com",
+      "phone": "+918264984525",
+      "password": "Guddu@123",
+      "cpassword": "Guddu@123",
+      "id": 8
+    },
+    {
+      "name": "dinkesh",
+      "email": "dinkesh@gmail.com",
+      "phone": "8896542536",
+      "password": "Dinkesh@123",
+      "cpassword": "Dinkesh@123",
+      "id": 9
+    },
+    {
+      "name": "John",
+      "email": "john98@gmail.com",
+      "phone": "8596452156",
+      "password": "John@123",
+      "cpassword": "John@123",
+      "id": 10
+    }
+  ]
+}
